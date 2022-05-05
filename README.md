@@ -13,7 +13,9 @@ To develop an online platform for waste management  on daily ,weekly or monthly 
 ## SOFTWARE
 
 Frontend-HTML,CSS
+
 Backend-PHP,MYSQL
+
 PHP tools-xampp-win32-7.3.2-0-VC15
 
 
