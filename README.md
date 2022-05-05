@@ -7,8 +7,8 @@ To develop an online platform for waste management  on daily ,weekly or monthly 
 ## MODULES
 
 - **User** : The user can login/sign up and enter the details of the waste.
-- **Collector** : The collector can login/sign up and enter the waste collected by the collector and its rewards per weight.
-- **Recycling units** : The recycling units can login/sign up and will be displayed of the collector information.
+- **Collector** : The collector can login/sign up and enter the waste collected by the collector and its rewards per weight or can view the requests from users for collecting wastes.
+- **Recycling units** : The recycling units can login/sign up and will be displayed of the details of waste materials that he can buy from collector.
 
 ## SOFTWARE
 
