@@ -2,7 +2,7 @@
 
 ## OBJECTIVE
 
-To develop an online platform for waste management  on daily ,weekly or monthly basis and rewards will be given to the users based on the quantity of waste.
+To develop an online platform for waste management on daily ,weekly or monthly basis which also helps the waste collectors to earn a profit by selling it to recycling units.
 
 ## MODULES
 
