@@ -18,6 +18,14 @@ To develop an online platform for waste management on daily ,weekly or monthly b
 
 **PHP tools**-xampp-win32-7.3.2-0-VC15
 
+## PROJECT DEMO
+
+
+
+https://user-images.githubusercontent.com/77911955/167161263-d5cc1845-d8a2-4206-8200-dd9dfbba57b1.mp4
+
+
+
 
 ## BENEFITS OF THE SYSTEM
 
